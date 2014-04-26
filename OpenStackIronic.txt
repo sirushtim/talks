@@ -1,0 +1,1 @@
+http://www.slideshare.net/rsacharya1/windows-deployment-on-bare-metal-using-ironic
